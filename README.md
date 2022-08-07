@@ -1,5 +1,25 @@
 # Review
-## 2일차
+
+## 0일차 (22.07.15)
+
+딥러닝을 위한 라이브러리(최소) : [library_for_deep_learning_shortly.ipynb](./material/library/library_for_deep_learning_shortly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/library/library_for_deep_learning_shortly.ipynb)
+
+
+<br>
+
+## 1일차 (22.07.18)
+
+- 인공지능 개념 및 동작 원리의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
+    - Perceptron, MLP, DNN 소개
+    - DNN의 학습 이해
+    - AI, 머신러닝, 딥러닝의 이해
+    - 딥러닝 상세 기술 이해
+
+- 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](./material/deep_learning/some_interesting_deep_learning.pptx)
+
+
+<br>
+## 2일차 (22.07.19)
 
 
 - 환경
@@ -21,7 +41,7 @@
 
 <br>
 
-## 3일차
+## 3일차 (22.07.20)
 
 - Keras로 구현한 딥러닝 #2 : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_in_keras.ipynb)
     - 다양한 입출력
@@ -43,7 +63,7 @@
 
 <br>
 
-## 4일차
+## 4일차 (22.07.21)
 
 - 영상 분류기로서의 CNN
     - CNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
@@ -57,7 +77,7 @@
 
 <br>
 
-## 5일차
+## 5일차 (22.07.22)
 
 - 전이학습
     - 영상 분류 : [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
@@ -70,7 +90,7 @@
 
 <br>
 
-## 6일차
+## 6일차 (22.07.25)
 
 - Keras Functional API  : [functional_api.ipynb](./material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/functional_api.ipynb)
 
@@ -91,7 +111,7 @@
 
 <br>
 
-## 7일차
+## 7일차 (22.07.26)
 
 - 물체 탐지
     - YOLO 설명 자료 : https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit	
@@ -118,7 +138,7 @@
 
 <br>
 
-## 8일차
+## 8일차 (22.07.27)
 
 - 웹 카메라를 사용한 영상 분류
     - 캡쳐와 실행 : [webcam_classifier.ipynb](./material/deep_learning/webcam_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier.ipynb)
@@ -127,7 +147,7 @@
 
 <br>
 
-## 9일차
+## 9일차 (22.07.28)
 
 - 웹 카메라를 사용한 물체 탐지
     - 캡쳐 : [webcam_object_detection_capture.ipynb](./material/deep_learning/webcam_object_detection_capture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_object_detection_capture.ipynb)
@@ -136,6 +156,6 @@
 
 <br>
 
-## 10일차
+## 10일차 (22.07.29)
 
 - 웹 카메라를 사용한 포즈 추출 : [webcam_pose_extraction.ipynb](./material/deep_learning/webcam_pose_extraction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_pose_extraction.ipynb)
